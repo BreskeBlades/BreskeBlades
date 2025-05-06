@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Breske Blades | Lawn Care in Lee's Summit</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #2e7d32;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .about {
+      background: white;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+      padding: 1.5rem;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+    .contact {
+      text-align: center;
+      margin-top: 2rem;
+    }
+    .contact a {
+      display: block;
+      margin: 0.5rem 0;
+      color: #2e7d32;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #ddd;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Breske Blades</h1>
+    <p>Professional Lawn Care in Lee's Summit, Missouri</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>Hi! I'm a 17-year-old high school student from Lee's Summit, Missouri, starting my own mowing business. I founded <strong>Breske Blades</strong> to offer affordable, reliable lawn care to my local community. Whether it's mowing, edging, or cleanup — I'm here to help make your yard look its best.</p>
+  </section>
+
+  <section class="about">
+    <h2>Services</h2>
+    <ul>
+      <li>Lawn mowing</li>
+      <li>Edging and trimming</li>
+      <li>Yard cleanup</li>
+      <li>One-time or regular maintenance</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Get in Touch</h2>
+    <p>Ready to schedule a mow or get a free estimate?</p>
+    <a href="tel:8162078552">📞 816-207-8552</a>
+    <a href="mailto:breskeblades@gmail.com">📧 breskeblades@gmail.com</a>
+  </section>
+
+  <footer>
+    &copy; 2025 Breske Blades – Lawn Care in Lee's Summit, MO
+  </footer>
+</body>
+</html>
